@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="trabalho_1_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/POO/TRABALHO/POO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trabalho_1_">
+				<Option output="C:/POO/TRABALHO/POO/cmake-build-debug/trabalho_1_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/POO/TRABALHO/POO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 trabalho_1_"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trabalho_1_/fast">
+				<Option output="C:/POO/TRABALHO/POO/cmake-build-debug/trabalho_1_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/POO/TRABALHO/POO/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.1.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="/mingw/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 trabalho_1_/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/POO/TRABALHO/POO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/POO/TRABALHO/POO/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.2/bin/mingw/bin/mingw32-make.exe -f &quot;C:/POO/TRABALHO/POO/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Alimento.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Alimento.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/AlimentoMisterio.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/AlimentoMisterio.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Bife.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Bife.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Cenoura.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Cenoura.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Corpo.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Corpo.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Relva.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Alimentos/Relva.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Animal.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Animal.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Canguro.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Canguro.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Coelho.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Coelho.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Lobo.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Lobo.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Misterio.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Misterio.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Ovelha.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Animais/Ovelha.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Biblioteca/Terminal.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Biblioteca/Terminal.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Biblioteca/curses.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Anim.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Anim.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/CAnimal.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/CAnimal.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Comandos.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Comandos.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Empty.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Empty.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Feed.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Feed.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Food.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Food.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Info.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Info.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Kill.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Kill.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Load.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Load.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/N.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/N.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/NoFood.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/NoFood.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Restore.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Restore.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/See.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/See.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Slide.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Slide.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Store.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Store.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Visanim.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Comandos/Visanim.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Fabricas/FabricaAlimentos.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Fabricas/FabricaAlimentos.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Fabricas/FabricaAnimais.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Fabricas/FabricaAnimais.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Fabricas/FabricaComandos.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Fabricas/FabricaComandos.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/HistoricoAlimento.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/HistoricoAlimento.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Reserva.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Reserva.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Simulador.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/Simulador.h">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/main.cpp">
+			<Option target="trabalho_1_"/>
+		</Unit>
+		<Unit filename="C:/POO/TRABALHO/POO/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

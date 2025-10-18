@@ -1,0 +1,7 @@
+﻿  dllmain.c
+C:\SO2\TP-SO2\DynamicLinkLibrary\DynamicLinkLibrary\dllmain.c(138,18): warning C4098: 'initGameData': função 'void' retornando um valor
+C:\SO2\TP-SO2\DynamicLinkLibrary\DynamicLinkLibrary\dllmain.c(150,18): warning C4098: 'initGameData': função 'void' retornando um valor
+C:\SO2\TP-SO2\DynamicLinkLibrary\DynamicLinkLibrary\dllmain.c(156,18): warning C4098: 'initGameData': função 'void' retornando um valor
+C:\SO2\TP-SO2\DynamicLinkLibrary\DynamicLinkLibrary\dllmain.c(174,23): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\SO2\TP-SO2\DynamicLinkLibrary\DynamicLinkLibrary\dllmain.c(175,27): warning C4018: '<': incompatibilidade de signed/unsigned
+  DynamicLinkLibrary.vcxproj -> C:\SO2\TP-SO2\DynamicLinkLibrary\x64\Debug\DynamicLinkLibrary.dll

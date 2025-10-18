@@ -1,0 +1,3 @@
+C:/POO/TRABALHO/POO/cmake-build-debug/CMakeFiles/trabalho_1_.dir
+C:/POO/TRABALHO/POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/POO/TRABALHO/POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

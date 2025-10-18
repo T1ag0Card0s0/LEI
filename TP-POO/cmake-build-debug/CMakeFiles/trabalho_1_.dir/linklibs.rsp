@@ -1,0 +1,1 @@
+ c:/PDCurses-3.9/wincon/pdcurses.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,12 @@
+SCoelho 20
+SOvelha 30
+SLobo 25
+SCanguro 20
+SMisterio 0
+VCoelho 30
+VOvelha 35
+VLobo 40
+VCanguro 70
+VMisterio 100
+VRelva 20
+VBife 30

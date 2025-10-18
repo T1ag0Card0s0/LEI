@@ -1,0 +1,57 @@
+﻿@model IEnumerable<HabitAqui.Models.Categoria>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100 bg-image" style="background-image:url('https://img.freepik.com/premium-photo/empty-minimal-room-interior-design-with-fishbone-flooring_327072-21366.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1697760000&semt=ais'); background-size:cover; height:100vh;">
+    <div class="d-flex justify-content-center align-items-center v-100">
+        <form asp-area="" asp-controller="Home" asp-action="Search" method="post">
+            <div class="row g-0">
+                <div class="col-5 opacity-90">
+                    <select name="category" class="form-select form-select-lg">
+                        <option selected value="">Tipo de Imóvel</option>
+                    @if (Model.Any())
+                    {
+                        @foreach (var categoria in Model)
+                        {
+                            <option value="@categoria.Nome">@categoria.Nome</option>
+                        }
+                    }
+                     </select>
+                    <!--</select>
+                    <select name="category" class="form-select form-select-lg">
+                        <option selected value="">Tipo de Imóvel</option>
+                        <option value="Apartamentos">Apartamentos</option>
+                        <option value="Moradias">Moradias</option>
+                        <option value="Quartos">Quartos</option>
+                        <option value="Escritórios">Escritórios</option>
+                        <option value="Terrenos">Terrenos</option>
+                        <option value="Garagens">Garagens</option>
+                        </select>-->
+                </div>
+                <div class="col-5">
+                    <input type="search" name="local" class="form-control form-control-lg opacity-90" placeholder="Pesquisa por local" />
+                </div>
+                <div class="col-2">
+                    <button type="submit" class="btn btn-dark btn-lg btn-block">
+                        Procurar
+                    </button>
+                </div>
+            </div>
+            <div class="row g-3 my-3">
+                <div class="col">
+                    <input class="form-control form-control-lg opacity-90" type="date" name="start_date" placeholder="Data de Início">
+                </div>
+                <div class="col">
+                    <input class="form-control form-control-lg opacity-90" type="date" name="end_date" placeholder="Data de Fim">
+                </div>
+                <div class="col">
+                    <input class="form-control form-control-lg opacity-90" type="number" placeholder="Período mínimo" name="periodo">
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>
+

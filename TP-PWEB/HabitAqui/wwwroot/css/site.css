@@ -1,0 +1,22 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.navbar-custom {
+    min-height: 80px; /* Defina a altura desejada */
+}
+
+body {
+    margin-bottom: 70px; /* Height of the footer */
+}
